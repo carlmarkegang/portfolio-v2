@@ -1,7 +1,8 @@
 # portfolio-v2
 
 ## Installation steps
-npx create-next-app@latest
+create - npx create-next-app@latest
+install - npm install
 
 ## Run steps
  * cd portfolio
