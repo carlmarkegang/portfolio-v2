@@ -4,11 +4,12 @@ import Link from 'next/link';
 export default function Header() {
   return (
     <header>
-      <div>Carl Markegång</div> 
-      <nav> 
+      <div><a href="/">Carl Markegång</a></div>
+      <nav>
         <Link href="/">Home</Link>
         <Link href="/work">Work</Link>
         <Link href="/projects">Projects</Link>
+        <Link href="/contact">Contact</Link>
       </nav>
     </header>
   );
