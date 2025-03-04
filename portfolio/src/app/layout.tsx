@@ -15,9 +15,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <div className="portfolio-main-wrap">
         <Header />
-        {/* Just render the child pages here */}
-        {children}
+        <div className="portfolio-main-content">
+          {children}
+        </div>
+        </div>
       </body>
     </html>
   );
