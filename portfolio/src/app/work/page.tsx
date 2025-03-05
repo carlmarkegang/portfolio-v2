@@ -9,11 +9,13 @@ export default function Work() {
       <h1>Mitt arbete!</h1>
 
       <div className="projects">
-      <ProjectBlock name="DPJ Workspace" years="2023 - nu" description="Test" image=""/>
+      <ProjectBlock title="Fullstack-utvecklare" name="DPJ Workspace" years="2022 - nu" description="Te<br>st" image=""/>
+      <ProjectBlock title="Utvecklare" name="InfoSolutions Sverige AB" years="jan. 2019 - juli 2022" description="Test" image=""/>
+      <ProjectBlock title="Application Specialist" name="Linas Matkasse" years="jan. 2016 - dec. 2018" description="Test" image=""/>
 
       </div>
 
-      <div>
+      <div className="bottomnav">
         Mina projekt: <a href="/project">Projekt</a>
       </div>
     </div>
