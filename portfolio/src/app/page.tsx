@@ -6,6 +6,7 @@ export default function Homepage() {
       <h1>Hej!</h1>
       <div className="subtitle">Click here to view page English: </div>
 
+      <br />
       <div>
         <a href="">Se mitt CV</a>
       </div>
