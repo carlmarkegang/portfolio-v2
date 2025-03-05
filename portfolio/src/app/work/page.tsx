@@ -13,10 +13,10 @@ export default function Work() {
 
       <div className="projects">
       <ProjectBlock title="Fullstack-utvecklare" name="DPJ Workspace" years="2022 - nu" 
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tellus risus, blandit egestas orci a, porta facilisis ipsum. Pellentesque convallis dolor nec dui ultrices, sit amet malesuada nibh vestibulum. Donec mollis molestie aliquam. Ut viverra nulla non diam vulputate dignissim. Integer dignissim lacinia augue. Nulla iaculis ex nec viverra posuere. Pellentesque sagittis rhoncus justo, quis sollicitudin libero vulputate at. Etiam dignissim malesuada quam, quis malesuada ligula euismod vitae. Vestibulum accumsan ultrices purus sit amet porttitor." 
+      description="Fullstack utvecklare hos DPJ Workspace Teknik PHP PrestaShop JavaScript jQuery Sass" 
       link="" image=""/>
-      <ProjectBlock title="Utvecklare" name="InfoSolutions Sverige AB" years="jan. 2019 - juli 2022" description="Test" link="" image=""/>
-      <ProjectBlock title="Application Specialist" name="Linas Matkasse" years="jan. 2016 - dec. 2018" description="Test" link="" image=""/>
+      <ProjectBlock title="Utvecklare" name="InfoSolutions Sverige AB" years="jan. 2019 - juli 2022" description="Utvecklare hos InfoSolutions. Teknik ASP.NET C# VB MSSQL JavaScript jQuery WordPress" link="" image=""/>
+      <ProjectBlock title="Application Specialist" name="Linas Matkasse" years="jan. 2016 - dec. 2018" description="Framför allt backend-utvecklare för Linas Matkasses interna business-system. Men även engagerad i frontendarbete för kundriktade sidor, teknisk support m.m. Årets Anstäld 2017. Teknik: PHP Symfony Shell MySQL JavaScript jQuery Docker WordPress" link="" image=""/>
       </div>
 
       <div className="bottomnav">
