@@ -4,10 +4,14 @@ export default function Homepage() {
   return (
     <div>
       <h1>Hej!</h1>
-      <div>Click here to view page English: </div>
+      <div className="subtitle">Click here to view page English: </div>
+
+      <div>
+        <a href="">Se mitt CV</a>
+      </div>
 
       <div className="bottomnav">
-        Mina arbetslivserfarenheter: <a href="/work">Arbete</a>
+        Gå vidare till <a href="/work">Arbetslivserfarenheter</a>
       </div>
     </div>
   );
