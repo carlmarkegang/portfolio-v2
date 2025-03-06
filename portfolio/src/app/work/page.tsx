@@ -9,6 +9,7 @@ export default function Work() {
       <h1>Mina arbetslivserfarenheter!</h1>
       <div className="subtitle">
         Under mina 9 år inom utveckling och tech har jag varit väldigt öppen för att testa på olika teknologier och frameworks.<br />
+        Jag är mer intresserad av slutmålet än hur jag kommer dit! :) <br /><br />
         Jag har framför allt jobbat som fullstack där jag har haft ansvar för både frontend och backend.<br /><br />
 
         Några teknologierna som jag har mest arbetserfarenhet av är: Javascript, SQL, PHP, C#, ASP.NET, jQuery.

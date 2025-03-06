@@ -36,7 +36,7 @@ export default function Projects() {
           name=""
           years=""
           description="Sidan du är på just nu! Skriven i React Next.js"
-          link=""
+          link="https://github.com/carlmarkegang/portfolio-v2"
           image="" />
       </div>
 

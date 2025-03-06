@@ -10,8 +10,10 @@ install - npm install
  * Navigate to http://localhost:3000
 
 ## Build steps
+ * added output: 'export' to next.config.ts to get a static web build
  * cd portfolio
  * npm run build
+ * cd out
 
 ## Switch node version using nvm
  * install: https://github.com/coreybutler/nvm-windows/releases
