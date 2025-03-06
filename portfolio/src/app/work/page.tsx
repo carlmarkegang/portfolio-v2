@@ -12,7 +12,8 @@ export default function Work() {
         Jag är mer intresserad av slutmålet än hur jag kommer dit! :) <br /><br />
         Jag har framför allt jobbat som fullstack där jag har haft ansvar för både frontend och backend.<br /><br />
 
-        Några teknologierna som jag har mest arbetserfarenhet av är: Javascript, SQL, PHP, C#, ASP.NET, jQuery.
+        Några teknologierna som jag har mest arbetserfarenhet av är: Git, Javascript, SQL, PHP, C#, ASP.NET, jQuery.<br />
+        Jag är väldigt van att arbeta självständigt men trivs med team.
 
 
       </div>
@@ -26,9 +27,9 @@ export default function Work() {
           image=""
           tags={["PHP", "PrestaShop", "Symfony", "JavaScript", "jQuery", "Sass", "MariaDB"]}
           description="Fullstack-utvecklare hos DPJ Workspace.<br><br>
-          Hos DPJ Workspace jobbade jag med kundriktade sidor för försäljning av kontorsmöbler.<br>
-          Vi jobbade med en designer som tog fram design i Adobe InDesign som vi införde på hemsidan. Det kunde ske genom att vi utvecklade Moduler vilket är en del av PrestaShops sätt att hantera tillägg via Symfony, PHP, Smarty, CSS, Javascript, jQuery. Det kunde också ske genom att modifera eller skapa controllers och templates.<br><br>
-          Några av de större projekten och mer intressant projekten jag jobbade med var:<br>
+          Som fullstack-utvecklare på DPJ Workspace ansvarade jag för att utveckla kundanpassade lösningar för försäljning av kontorsmöbler. <br>
+          Jag arbetade nära designerteamet för att implementera visuella koncept från Adobe InDesign på vår e-handelsplattform. Detta inkluderade både utveckling av moduler inom PrestaShop, som använder Symfony, PHP, Smarty, CSS, Javascript och jQuery, samt anpassning av controllers och templates för att optimera användarupplevelsen.<br><br>
+          Några av de mest intressanta och större projekten jag arbetade med inkluderar:<br>
           Brizley - Skapade en hemsida i Symfony med ett egenbyggt adminsystem för att enkelt kunna redigera texter och produkter och ett Frontend med Symfony controllers och htmx.<br>
           Spåra order - tog fram en sida för att spåra ordrar som var kopplad till Visma." />
 
@@ -41,7 +42,7 @@ export default function Work() {
           tags={["ASP.NET", "C#", "VB", "WebView2", "MSSQL", "JavaScript", "XML", "jQuery", "WordPress"]}
           description='Utvecklare hos InfoSolutions. <br><br>
           InfoSolutions är ett företag som arbetar med vårddigitalisering, t.ex i kommunikation mellan sjukhus och labb eller erbjöd webbaserade lösningar som t.ex LabPortalen.<br><br>
-          Hos InfoSolutions hade jag ansvar för att utveckla och underhålla flera större webbaserade system som användes av vårdsektorn t.ex Röntgenportalen, "TimeReport" (det interna systemet för att rapportera tid och fakturera som jag utvecklade i C# Razor), LabPortalen, eRemiss, Medicinska studier, konverteringsflöden mellan olika labb och sjukhus, Connect och fler. Dessa system hade även interna support program som var skrivna i Windows Forms (VB.NET) för att t.ex kunna administrera organisationer, logga in som en användare i system m.m.<br><br>
+          Hos InfoSolutions hade jag ansvar för att utveckla och underhålla flera större webbaserade system som användes av vårdsektorn t.ex Röntgenportalen, "TimeReport" (det interna systemet för att rapportera tid och fakturera som jag utvecklade i C# Razor), LabPortalen, eRemiss, Medicinska studier, konverteringsflöden mellan olika labb och sjukhus, Connect och fler. Jag jobbade även med de Labportalens interna supportprogram som var skrivna i Windows Forms (VB.NET) för att t.ex kunna administrera organisationer, logga in som en användare i system m.m.<br><br>
           Vi jobbade i Microsoft miljöer med Windows Server, MSSQL med stored procedures och IIS.<br><br>
           En rolig detail från InfoSolutions var att jag, tillsammans med flera projektledare från InfoSolutions och Folkhälsomyndigheterna utvecklade ett av de tidigare formulär (kanske första i Sverige) som användes av vårdpersonal för att spåra Covid-19 symtom!' />
 
