@@ -4,11 +4,14 @@ export default function Homepage() {
   return (
     <div>
       <h1>Hej!</h1>
-      <div className="subtitle">Click here to view page English: </div>
+      <div className="subtitle">
+        Välkommen till min hemsida!
+        {/* Click here to view page English:  */}
+      </div>
 
       <br />
       <div>
-        <a href="">Se mitt CV</a>
+        {/*<a href="/cv.pdf">Se mitt CV</a>*/}
       </div>
 
       <div className="bottomnav">
