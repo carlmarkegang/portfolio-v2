@@ -19,6 +19,7 @@ export default function ProjectBlock({ title, name, years, description, link, im
       <div key={index}>
         {line}
         {index !== description.split("\n").length - 1}
+        <br />
       </div>
     ));
   };

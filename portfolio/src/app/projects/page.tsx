@@ -30,6 +30,14 @@ export default function Projects() {
           description="Experiment skrivna i kod"
           link="https://codepen.io/carlmarkegang"
           image="" />
+
+        <ProjectBlock
+          title="Markegang.se"
+          name=""
+          years=""
+          description="Sidan du är på just nu! Skriven i React Next.js"
+          link=""
+          image="" />
       </div>
 
       <div className="bottomnav">
