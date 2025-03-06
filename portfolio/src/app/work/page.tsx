@@ -23,7 +23,7 @@ export default function Work() {
           years="2022 - nu"
           link=""
           image=""
-          tags={["PHP", "PrestaShop", "JavaScript", "jQuery", "Sass"]}
+          tags={["PHP", "PrestaShop", "JavaScript", "jQuery", "Sass", "MariaDB"]}
           description="Fullstack utvecklare hos DPJ Workspace" />
 
         <ProjectBlock
