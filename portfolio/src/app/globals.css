@@ -98,6 +98,18 @@ nav {
   margin-top: 10px;
 }
 
+.projectblock .tags {
+  display: flex;
+  gap: 10px;
+}
+
+.projectblock .tag {
+  background-color: #aadfd6;
+  padding: 5px;
+  border-radius: 5px;
+  color: #257360;
+}
+
 .projectblock a {
   color: #000000;
 }

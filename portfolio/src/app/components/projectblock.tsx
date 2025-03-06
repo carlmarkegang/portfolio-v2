@@ -9,17 +9,32 @@ interface ProjectBlockProps {
   description: string;
   link: string;
   image: string;
+  tags?: string[];
 }
 
-export default function ProjectBlock({ title, name, years, description, link, image }: ProjectBlockProps) {
+export default function ProjectBlock({ title, name, years, description, link, image, tags = [] }: ProjectBlockProps) {
+
+  const formatDescription = (description: string) => {
+    return description.split("<br>").map((line, index) => (
+      <div key={index}>
+        {line}
+        {index !== description.split("\n").length - 1}
+      </div>
+    ));
+  };
 
   return (
     <div className="projectblock">
       <div className="title">{title}</div>
       <div className="name">{name}</div>
       <div className="years">{years}</div>
-      <div className="description">{description}</div>
+      <div className="description">{formatDescription(description)}</div>
       <div className="link"><a href={link}>{link}</a></div>
+      <div className="tags">
+        {tags.length > 0 && tags.map((tag, index) => (
+          <div key={index} className="tag">{tag}</div>
+        ))}
+      </div>
     </div>
   );
 }
