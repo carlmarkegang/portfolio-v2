@@ -92,7 +92,7 @@ nav {
 
 .projectblock .years {
   margin: 10px 0;
-  font-size:14px;
+  font-size: 14px;
 }
 
 .projectblock .description {
@@ -101,6 +101,7 @@ nav {
 
 .projectblock .link {
   margin-top: 10px;
+  overflow-wrap: anywhere;
 }
 
 .projectblock .tags {
@@ -139,4 +140,36 @@ nav {
 
 .bottomnav {
   margin-top: 50px;
+}
+
+@media only screen and (max-width: 900px) {
+
+  h1 {
+    font-size: 22px;
+  }
+
+  .portfolio-main-content {
+    padding: 10px;
+  }
+
+  header {
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  header a {
+    padding: 10px;
+  }
+
+  nav {
+    gap: 0px;
+  }
+
+  nav a:first-child {
+    display: none;
+  }
+
+  .projectblock .description {
+    max-width: 100%;
+  }
 }
