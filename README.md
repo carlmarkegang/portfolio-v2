@@ -14,6 +14,9 @@ install - npm install
  * cd portfolio
  * npm run build
  * cd out
+ * Run commands:
+ * `New-Item -ItemType Directory -Force -Path contact; New-Item -ItemType Directory -Force -Path projects; New-Item -ItemType Directory -Force -Path work`
+ * `Copy-Item contact.html -Destination "contact\index.html";Copy-Item projects.html -Destination "projects\index.html";Copy-Item work.html -Destination "work\index.html";`
 
 ## Switch node version using nvm
  * install: https://github.com/coreybutler/nvm-windows/releases

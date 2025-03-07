@@ -10,10 +10,10 @@ export default function Header() {
     <header>
       <div><a href="/">Carl Markegång</a></div>
       <nav>
-        <Link href="/" className={pathname == '/' ? 'active' : ''}>Hem</Link>
-        <Link href="/work" className={pathname == '/work' ? 'active' : ''}>Arbete</Link>
-        <Link href="/projects" className={pathname == '/projects' ? 'active' : ''}>Projekt</Link>
-        <Link href="/contact" className={pathname == '/contact' ? 'active' : ''}>Kontakt</Link>
+        <a href="/" className={pathname == '/' ? 'active' : ''}>Hem</a>
+        <a href="/work" className={pathname == '/work' ? 'active' : ''}>Arbete</a>
+        <a href="/projects" className={pathname == '/projects' ? 'active' : ''}>Projekt</a>
+        <a href="/contact" className={pathname == '/contact' ? 'active' : ''}>Kontakt</a>
       </nav>
     </header>
   );
