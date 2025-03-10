@@ -11,7 +11,7 @@ export default function Homepage() {
 
       <br />
       <div>
-        <a href="/cv.pdf" target="_blank">Se mitt CV</a>
+        <a href="/cv.pdf" target="_blank">Se mitt CV som PDF</a>
       </div>
 
       <div className="bottomnav">
