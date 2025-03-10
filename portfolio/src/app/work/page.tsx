@@ -14,8 +14,10 @@ export default function Work() {
 
         Några av de teknologier jag har mest erfarenhet av: Git, Javascript, SQL, PHP, C#, ASP.NET, jQuery.<br />
         Jag är van att arbeta självständigt men trivs även i team.
+      </div>
 
-
+      <div>
+        <a href="/cv.pdf" target="_blank">Se mitt CV som PDF</a>
       </div>
 
       <div className="projects">
