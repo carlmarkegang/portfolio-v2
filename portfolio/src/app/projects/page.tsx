@@ -16,7 +16,7 @@ export default function Projects() {
           image=""
           description="På Github finns det en stor mängd projekt som jag har skapat.<br>
           Allt ifrån att testa något framework till användbara verktyg, spel och webbappar.<br>
-          Några av de programmeringsspråk jag har använt i mina projekt: React, Node, Bevy (Rust), p5.js 
+          Några av de programmeringsspråk jag har använt i mina projekt: React, Node, Bevy (Rust), p5.js, Symfony, C#
           " />
 
         <ProjectBlock

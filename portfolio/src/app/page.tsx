@@ -11,7 +11,7 @@ export default function Homepage() {
 
       <br />
       <div>
-        {/*<a href="/cv.pdf">Se mitt CV</a>*/}
+        <a href="/cv.pdf">Se mitt CV</a>
       </div>
 
       <div className="bottomnav">
