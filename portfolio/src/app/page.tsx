@@ -14,7 +14,7 @@ export default function Homepage() {
         <a href="/cv.pdf" target="_blank">Se mitt CV som PDF</a>
       </div>
       <div>
-        <a href="/cv-eng.pdf" target="_blank">View my CV in English</a>
+        <a href="/cv-eng.pdf" target="_blank">View my CV as PDF in English</a>
       </div>
 
       <div className="bottomnav">

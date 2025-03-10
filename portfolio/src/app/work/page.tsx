@@ -19,7 +19,7 @@ export default function Work() {
       <div>
         <br />
         <a href="/cv.pdf" target="_blank">Se mitt CV som PDF</a><br />
-        <a href="/cv-eng.pdf" target="_blank">View my CV in English</a>
+        <a href="/cv-eng.pdf" target="_blank">View my CV as PDF in English</a>
       </div>
 
 
