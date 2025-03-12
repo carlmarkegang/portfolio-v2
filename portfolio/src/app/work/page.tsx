@@ -16,13 +16,6 @@ export default function Work() {
         Jag är van att arbeta självständigt men trivs även i team.
       </div>
 
-      <div>
-        <br />
-        <a href="/cv.pdf" target="_blank">Se mitt CV som PDF</a><br />
-        <a href="/cv-eng.pdf" target="_blank">View my CV as PDF in English</a>
-      </div>
-
-
       <div className="projects">
         <ProjectBlock
           title="Fullstack-utvecklare"

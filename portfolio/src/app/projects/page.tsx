@@ -20,6 +20,13 @@ export default function Projects() {
           " />
 
         <ProjectBlock
+          title='"Skiing in Ratvik"'
+          name="" years=""
+          description="Just nu jobbar jag på ett 3D-spel. Ange lösenord 'ratvik' i länken för att se några screenshots!"
+          link="https://carlmarkegang.itch.io/skiing-in-ratvik"
+          image="" />
+
+        <ProjectBlock
           title="Spelutveckling"
           name="" years=""
           description="En av mina hobbies är att utveckla mindre spel. Här kan du se några som jag har jobbat med."
