@@ -30,7 +30,7 @@ export default function ProjectBlock({ title, name, years, description, link, im
       <div className="name">{name}</div>
       <div className="years">{years}</div>
       <div className="description">{formatDescription(description)}</div>
-      <div className="link"><a href={link}>{link}</a></div>
+      <div className="link"><a href={link} target="_blank">{link}</a></div>
       <div className="tags">
         {tags.length > 0 && tags.map((tag, index) => (
           <div key={index} className="tag">{tag}</div>
