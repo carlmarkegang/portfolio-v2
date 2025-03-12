@@ -5,7 +5,7 @@ export default function Projects() {
   return (
     <div>
       <h1>Hobbyprojekt</h1>
-      <div className="subtitle">Här är några utvalda projekt jag har arbetet med för skojs skull!</div>
+      <div className="subtitle">Här är några utvalda projekt jag har arbetat med för skojs skull!</div>
       <div className="projects">
 
         <ProjectBlock
@@ -22,7 +22,7 @@ export default function Projects() {
         <ProjectBlock
           title='"Skiing in Ratvik"'
           name="" years=""
-          description="Just nu jobbar jag på ett 3D-spel. Ange lösenord 'ratvik' i länken för att se några screenshots!"
+          description="Jag håller på med ett lite större hobbyspelprojekt i Unity. Ange lösenord 'ratvik' i länken för att se några screenshots!"
           link="https://carlmarkegang.itch.io/skiing-in-ratvik"
           image="" />
 
