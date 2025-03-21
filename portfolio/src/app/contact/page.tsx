@@ -4,8 +4,8 @@ export default function Contact() {
   return (
     <div>
       <div className="contact">
-        <div><span>Email:</span> carl@markegang.se</div>
-        <div><span>Tel:</span> 070-204 64 16</div>
+        <div><span>Email:</span> <a href="mailto:carl@markegang.se">carl@markegang.se</a></div>
+        <div><span>Tel:</span> <a href="tel:+46702046416">070-204 64 16</a></div>
         <div><span>Linkedin:</span> <a href="https://www.linkedin.com/in/carl-markeg%C3%A5ng-b41971101/">Carl Markegang</a></div>
         <div><span>Github:</span> <a href="https://github.com/carlmarkegang">carlmarkegang</a></div>
         {/*
