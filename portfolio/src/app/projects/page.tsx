@@ -20,13 +20,6 @@ export default function Projects() {
           " />
 
         <ProjectBlock
-          title='"Skiing in Ratvik"'
-          name="" years=""
-          description="Jag håller på med ett lite större hobbyspelprojekt i Unity. Ange lösenord 'ratvik' i länken för att se några screenshots!"
-          link="https://carlmarkegang.itch.io/skiing-in-ratvik"
-          image="" />
-
-        <ProjectBlock
           title="Spelutveckling"
           name="" years=""
           description="En av mina hobbies är att utveckla mindre spel. Här kan du se några som jag har jobbat med."
