@@ -18,9 +18,18 @@ export default function Work() {
 
       <div className="projects">
         <ProjectBlock
+          title="Software engineer"
+          name="Cambio MittVaccin"
+          years="2025 - nu"
+          link=""
+          image=""
+          tags={["PHP", "JavaScript"]}
+          description="Software engineer hos Cambio MittVaccin.<br><br>" />
+        
+        <ProjectBlock
           title="Fullstack-utvecklare"
           name="DPJ Workspace"
-          years="2022 - nu"
+          years="2022 - 2025"
           link=""
           image=""
           tags={["PHP", "PrestaShop", "Symfony", "JavaScript", "jQuery", "Sass", "MariaDB"]}
