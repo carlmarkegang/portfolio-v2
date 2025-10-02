@@ -8,7 +8,7 @@ export default function Work() {
     <div>
       <h1>Mina arbetslivserfarenheter!</h1>
       <div className="subtitle">
-        Under mina 9 år inom utveckling och tech har jag varit väldigt öppen för att testa på olika teknologier och frameworks.<br />
+        Under mina år som utvecklare och tech har jag varit väldigt öppen för att testa på olika teknologier och frameworks.<br />
         Jag är mer intresserad av slutmålet än hur jag kommer dit! :) <br /><br />
         Jag har framför allt jobbat som fullstack där jag har haft ansvar för både frontend och backend.<br /><br />
 
@@ -18,9 +18,18 @@ export default function Work() {
 
       <div className="projects">
         <ProjectBlock
+          title="Software engineer"
+          name="Cambio MittVaccin"
+          years="2025 - nu"
+          link=""
+          image=""
+          tags={["PHP", "JavaScript"]}
+          description="Software engineer hos Cambio MittVaccin." />
+        
+        <ProjectBlock
           title="Fullstack-utvecklare"
           name="DPJ Workspace"
-          years="2022 - nu"
+          years="2022 - 2025"
           link=""
           image=""
           tags={["PHP", "PrestaShop", "Symfony", "JavaScript", "jQuery", "Sass", "MariaDB"]}
